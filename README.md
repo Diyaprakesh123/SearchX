@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/l3v11/SearchX">
+    <a href="https://github.com/Diyaprakesh123/SearchX">
         <img width="200" src="https://cdn.dribbble.com/users/1501052/screenshots/5468049/searching_tickets.gif" alt="SearchX">
     </a>
 </p>
